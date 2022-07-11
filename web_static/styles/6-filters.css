@@ -17,13 +17,13 @@
 }
 
 .locations {
-    background-color: blue;
+    background-color: #FFFFFF;
     border-right: 1px solid #DDDDDD; 
 }
 
 .popover {
     display: none;
-    background-color: red;
+    background-color: #FAFAFA;
     width: 100%;
     max-width: 100%;
     border: 1px solid #DDDDDD;
