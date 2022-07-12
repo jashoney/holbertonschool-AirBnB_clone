@@ -17,6 +17,7 @@
     text-align: left;
     margin-left: 20px;
     font-size: 30px;
+    margin-bottom: -5px;
 }
 
 .places article h2 {
@@ -33,6 +34,7 @@
     height: 60px;
     line-height: 60px;
     font-size: 30px;
+    margin: 5px;
     float: right;
     position: relative;
     margin-top: -80px;
