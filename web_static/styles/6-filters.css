@@ -22,6 +22,8 @@
 
 .popover {
     display: none;
+    z-index: 1;
+    position: relative;
     background-color: #FAFAFA;
     width: 100%;
     max-width: 100%;
