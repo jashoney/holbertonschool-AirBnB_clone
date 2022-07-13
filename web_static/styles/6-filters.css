@@ -1,4 +1,5 @@
 .filters {
+    display: inline-block;
     background-color: white;
     height: 70px;
     width: 100%;
